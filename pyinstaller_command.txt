@@ -1,0 +1,1 @@
+pyinstaller --noconsole --add-data="config.json" MT48.py
